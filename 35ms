@@ -1,19 +1,19 @@
 Your Task:
-Rewrite the following Lua code completely with these rules:
+Completely rewrite the following Lua code without truncating or summarizing, with these rules:
 
-Descriptive Variable Names: Rename all variables to be meaningful and clear.
+Rename variables to be descriptive and meaningful.
 
-Preserve Functionality: The code must run exactly the same.
+Preserve functionality exactly.
 
-No Comments or Explanations: Remove all comments, debug prints, or notes.
+Remove all comments.
 
-Full Code Output: Do not shorten, omit, or truncate anything. Output the entire code exactly as given, just rewritten.
+Do not truncate or shorten any part of the code. Output everything in full.
 
-Maintain Structure: Keep the same logic, loops, functions, metatables, etc. intact.
+Maintain all structures, loops, functions, metatables, etc.
 
-Unclear Sections: If something cannot be understood or safely rewritten, replace it with -- [[ BROKE ]].
+For any unclear or broken parts, replace with -- [[ BROKE ]].
 
-Raw Lua Only: Do not include lua formatting or any extra text.
+Output raw Lua only, no formatting or explanation.
 
 Input Code:
 
