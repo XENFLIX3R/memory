@@ -1,21 +1,21 @@
 Your Task:
-Rewrite the following code with these guidelines:
+Rewrite the following Lua code completely with these rules:
 
-1. Improve Readability:
-   - Use descriptive, easy-to-understand variable names.
-   - Keep formatting clean and consistent.
+Descriptive Variable Names: Rename all variables to be meaningful and clear.
 
-2. Preserve Functionality:
-   - Ensure the rewritten code works exactly the same as the original.
+Preserve Functionality: The code must run exactly the same.
 
-3. Handle Unclear Sections:
-   - If a part of the code is unclear or you are unsure how to rewrite it, replace it with:
-     -- [[ BROKE ]]
+No Comments or Explanations: Remove all comments, debug prints, or notes.
 
-4. Maintain Structure:
-   - Keep the overall structure intact while improving clarity.
+Full Code Output: Do not shorten, omit, or truncate anything. Output the entire code exactly as given, just rewritten.
 
-NOTE: RETURN ONLY CODE. THIS MEANS NO FORMATTING (```) AND NO EXPLANATION JUST RETURN RAW CODE!
+Maintain Structure: Keep the same logic, loops, functions, metatables, etc. intact.
+
+Unclear Sections: If something cannot be understood or safely rewritten, replace it with -- [[ BROKE ]].
+
+Raw Lua Only: Do not include lua formatting or any extra text.
+
+Input Code:
 
 wait()
 game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Backpack, false)
